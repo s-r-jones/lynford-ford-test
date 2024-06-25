@@ -557,27 +557,26 @@
   resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.12.0.tgz#9ffdf9ed133a7464f4ae187eb9e1294413fab235"
   integrity sha512-ZYmr5mS2wd4Dew/JjT0Fqi2NPB/ZhZ2VvPp7SmvPZb4Y1CG/LRcS6tcRo2cYU7zLK5A7cdbhWnnWmUjoI4qapg==
 
-"@snap/camera-kit@0.17.0":
-  version "0.17.0"
-  resolved "https://registry.yarnpkg.com/@snap/camera-kit/-/camera-kit-0.17.0.tgz#5d733bb8380c38317809ab468fcfc0336c4f0be2"
-  integrity sha512-xqskfy99zhbJGKQLmTVekI0lwUllI9dGyrb6jWF0LpTxKiyCVeKMesXpjBloxYjXikmKMEhEl4XtHxNqOmoa+g==
+"@snap/camera-kit@0.18.0":
+  version "0.18.0"
+  resolved "https://registry.yarnpkg.com/@snap/camera-kit/-/camera-kit-0.18.0.tgz#f826ddb03948309fa367aadc03c10893e1e6a4c8"
+  integrity sha512-x65ipBsypJj7I22rdSSTQsCQ0XkkIFUdGmRkTF0pAs2JUMoklD2aZ1CyvbCtyKpg/NCbt9eVxXEym228CYdLZg==
   dependencies:
     "@improbable-eng/grpc-web" "^0.15.0"
-    "@snap/state-management" "^0.17.0"
+    "@snap/state-management" "^0.18.0"
     browser-fs-access "^0.31.1"
     browser-headers "^0.4.1"
     long "^4.0.0"
     protobufjs "^6.11.3"
-    reflect-metadata "^0.1.13"
     rxjs "^7.5.7"
     tslib "^2.5.0"
     uuid "^9.0.0"
     wasm-feature-detect "^1.2.11"
 
-"@snap/push2web@^0.17.0":
-  version "0.17.0"
-  resolved "https://registry.yarnpkg.com/@snap/push2web/-/push2web-0.17.0.tgz#9fef3101127ac5c19fd68d3ff008fc38b6a0ec9c"
-  integrity sha512-UUzwyVg4ybRzz8AOEjTzebrWqyzb9vHPuse4VnfGX6eJ2j5bdmr9+Y2hvkeYWrpOapfFvBEMHpo6HR0meefdwQ==
+"@snap/push2web@^0.18.0":
+  version "0.18.0"
+  resolved "https://registry.yarnpkg.com/@snap/push2web/-/push2web-0.18.0.tgz#6498f9c4e780ec9808a2e300cc9848d755e2ad86"
+  integrity sha512-F1YyhtSGXDWhxZAHlWGYzaLntjihk0hGVwj+SHKhIClFXyYfzo6eiMcRXqAfuo/ncp1/xN6x/haanxsJJiFOmg==
   dependencies:
     "@improbable-eng/grpc-web" "^0.15.0"
     browser-headers "^0.4.1"
@@ -585,10 +584,10 @@
     protobufjs "^6.11.3"
     rxjs "^7.5.7"
 
-"@snap/state-management@^0.17.0":
-  version "0.17.0"
-  resolved "https://registry.yarnpkg.com/@snap/state-management/-/state-management-0.17.0.tgz#e6c02e2903e3eed5d641744ff6d9219cbe986fd4"
-  integrity sha512-Qn8vnf6X5keVjPlPNmIt+HnXPYOePm6SVfJ10H34f0GJkoBVd7tasP65tyisWhIWL+6HDYeCZC00fWRiuwuI3A==
+"@snap/state-management@^0.18.0":
+  version "0.18.0"
+  resolved "https://registry.yarnpkg.com/@snap/state-management/-/state-management-0.18.0.tgz#519c90e0f924c0bca8945a9fac177e409dff742a"
+  integrity sha512-auYuTO6oEcy/fMxnWxMGHeKGOfrIkaYXZKISM2XT+vafNVP2xJ8aXT0FTUXXgUDgRZ7GGqTUxqxHDkECmL7MXg==
 
 "@types/babel__core@^7.20.5":
   version "7.20.5"
@@ -2011,11 +2010,6 @@ react@^18.2.0:
   integrity sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==
   dependencies:
     loose-envify "^1.1.0"
-
-reflect-metadata@^0.1.13:
-  version "0.1.14"
-  resolved "https://registry.yarnpkg.com/reflect-metadata/-/reflect-metadata-0.1.14.tgz#24cf721fe60677146bb77eeb0e1f9dece3d65859"
-  integrity sha512-ZhYeb6nRaXCfhnndflDK8qI6ZQ/YcWZCISRAWICW9XYqMUwjZM9Z0DveWX/ABN01oxSHwVxKQmxeYZSsm0jh5A==
 
 reflect.getprototypeof@^1.0.4:
   version "1.0.5"
