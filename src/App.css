@@ -78,7 +78,6 @@
   left: 0;
   display: flex;
   align-items: start;
-  align-items: center;
   justify-content: center;
 
   section {
@@ -94,7 +93,7 @@
       li {
         padding: 0.75rem;
         border: 1px solid #f1f1f1;
-        margin-top: 1rem;
+        margin-top: 0.5rem;
         border-radius: 0.625rem;
         display: flex;
         align-items: center;
